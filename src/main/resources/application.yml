@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/fmarcoss/reto-config-server.git
+          uri: https://github.com/fmarcoss/reto-config-service.git
         default-label: myvalue.yaml
         search-paths:
         - '*service*'
